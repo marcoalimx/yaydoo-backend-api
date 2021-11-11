@@ -1,1 +1,1 @@
-# yaydoo-backend-api
+sequelize-auto -h database-1.cgriqmyweq5c.us-east-2.rds.amazonaws.com -d postgres -u postgres -x Planeacion1* -p 5432 --dialect postgres -c ./server/assets/sequelize-auto-settings.json -o ./server/store/models -s public
